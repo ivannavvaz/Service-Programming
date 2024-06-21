@@ -1,0 +1,41 @@
+Camiseta;20
+Zapatos deportivos;50
+Portatil;800
+Auriculares inalambricos;40
+Mochila;30
+Libro;15
+Reloj de pulsera;60
+Botella de agua;2
+Gafas de sol;25
+Juego de mesa;35
+Teclado y raton inalambricos;45
+Cafetera;70
+Cargador portatil;20
+Silla de escritorio;120
+Paquete de baterias AA;5
+Lampara de escritorio;15
+Pantalones vaqueros;40
+Camara digital;200
+Altavoces Bluetooth;60
+Gorra;10
+Bicicleta;300
+Tabla de cortar;8
+Silla plegable;18
+Guitarra acustica;150
+Maletin de viaje;50
+Impresora;80
+Set de herramientas;30
+Sarten antiadherente;25
+Pelota de futbol;15
+Monitor de 24 pulgadas;150
+Taza de cafe;6
+Microfono USB;35
+Colchon individual;100
+Caja de herramientas;40
+Juego de destornilladores;12
+Tocadiscos;80
+Linterna recargable;15
+Almohada de plumas;20
+Zapatillas de running;65
+Puzzle de 1000 piezas;18
+Lapices de colores;10
