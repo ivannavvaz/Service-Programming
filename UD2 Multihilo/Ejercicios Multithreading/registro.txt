@@ -1,0 +1,20 @@
+[Persona 1]: en cola
+[Persona 3]: en cola
+[Persona 2]: en cola
+[Persona 4]: en cola
+[Persona 5]: en cola
+[Persona 7]: en cola
+[Persona 6]: en cola
+[Persona 9]: en cola
+[Persona 10]: en cola
+[Persona 8]: en cola
+[Persona 6]: con entrada tipo 2 ha entrado al espectaculo
+[Persona 7]: con entrada tipo 2 ha entrado al espectaculo
+[Persona 4]: con entrada tipo 2 ha entrado al espectaculo
+[Persona 2]: con entrada tipo 2 ha entrado al espectaculo
+[Persona 8]: con entrada tipo 3 ha entrado al espectaculo
+[Persona 5]: con entrada tipo 3 ha entrado al espectaculo
+[Persona 1]: con entrada tipo 3 ha entrado al espectaculo
+[Persona 3]: con entrada tipo 3 ha entrado al espectaculo
+[Persona 10]: con entrada tipo 3 ha entrado al espectaculo
+[Persona 9]: con entrada tipo 4 ha entrado al espectaculo
